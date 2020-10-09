@@ -1,1 +1,2 @@
 name: One man band
+on: pull_request_review
